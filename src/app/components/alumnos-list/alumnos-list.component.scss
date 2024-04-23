@@ -1,0 +1,13 @@
+.alumnos-container {
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+    mat-table {
+      width: 100%;
+      max-width: 800px;
+    }
+  }
+
+.search-container {
+    margin-bottom: 20px;
+}
